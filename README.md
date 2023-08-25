@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Gunacti</h1>
-<h3 align="center">A am trying to be a good Backend Develeoper for C#</h3>
+<h3 align="center">I'm trying to be a good Backend Develeoper for C#</h3>
 
 - 🔭 I’m currently working on [Telephone Technic Service Project](https://github.com/enesgunacti/TechnicServiceBackend)
 
