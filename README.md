@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Gunacti</h1>
 <h3 align="center">I'm trying to be a good Backend Develeoper for C#</h3>
 
-- 🔭 I’m currently working on [Telephone Technic Service Project](https://github.com/enesgunacti/TechnicServiceBackend)
+- 🔭 I’m currently working on this Project For improve my self [Telephone Technic Service Project](https://github.com/enesgunacti/TechnicServiceBackend)
 
 - 🌱 I’m currently learning **C# Web Api and React (for my projects Frontend side)**
 
