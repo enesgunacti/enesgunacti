@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Enes Günacti 👋</h1>
+<h1 align="center">Hello, I'm Enes Gunacti 👋</h1>
 <h3 align="center">Aspiring Backend Developer Specializing in C#</h3>
 
 🌱 I’m currently deepening my knowledge in C#, .Net, and Web API.
